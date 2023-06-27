@@ -1,4 +1,0 @@
-repository "The Lost City@frostforz@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
